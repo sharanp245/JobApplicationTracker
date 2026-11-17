@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.db
+*.db-journal
+cookies*.txt
+jane.txt
+mark.txt
+dist/
+.DS_Store
